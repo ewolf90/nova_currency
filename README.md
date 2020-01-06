@@ -22,7 +22,7 @@ If you ***do not*** have a `personnel_index.php` file in `/application/views/_ba
 If you have a `personnel_index.php` file in `/application/views/_base_override/main/pages`, follow the steps below:
 
 1. Open and edit the `personnel_index.php` file in `/application/views/_base_override/main/pages`
-2. Navigate to the line that begins the Stats section (Ctrl + F for `<h4 class="page-subhead"><?php echo $label['stats'];?></h4>`)
+2. Navigate to the line that begins the Stats section (Cmd + F for `<h4 class="page-subhead"><?php echo $label['stats'];?></h4>`)
 3. Within the list statement (`<ul>`) below the Stats header label in Step 2, add the following code into the file:
 ```php
 <?php if ($postcount > 0): ?>
