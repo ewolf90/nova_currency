@@ -6,6 +6,7 @@ The **Nova Currency Mod** was designed by [Emily Wolf](mailto:emily@wolfsims.org
 
 [Report a Bug](https://github.com/ewolf90/nova_currency/issues/new) 
 
+## Screenshot
 ![Currency Mod Screenshot](http://wolfsims.org/images/currency_mod.png "Currency Mod Screenshot")
 
 ## Getting Started
