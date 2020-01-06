@@ -1,4 +1,4 @@
-<div align="center"><h1 style="border-bottom:0">Nova Currency Mod</h1>
+<h1 style="border-bottom:0">Nova Currency Mod</h1>
   
 ![Version](https://img.shields.io/badge/Version-v1.0.0-brightgreen.svg "Version") [![Nova](https://img.shields.io/badge/Nova-v2.6.1-orange.svg "Laravel Version")](http://www.anodyne-productions.com/nova) [![PHP](https://img.shields.io/badge/PHP-v5.3.0-blue.svg "PHP Version")](https://www.php.net/)
   
@@ -6,7 +6,7 @@ The **Nova Currency Mod** was designed by [Emily Wolf](mailto:emily@wolfsims.org
 
 [Report a Bug](https://github.com/ewolf90/nova_currency/issues/new) 
 
-![Currency Mod Screenshot](http://wolfsims.org/images/currency_mod.png "Currency Mod Screenshot")</div>
+![Currency Mod Screenshot](http://wolfsims.org/images/currency_mod.png "Currency Mod Screenshot")
 
 ## Getting Started
 ### Installation without personnel_character.php page
@@ -31,4 +31,4 @@ If you have a `personnel_index.php` file in `/application/views/_base_override/m
 If you need any help installing or customizing this skin, please join the [Anodyne Productions Discord](https://discord.gg/qwfZt38) and use room #xtras. Otherwise, direct message me on Discord (@Emily#6153) or [send me an email](mailto:emily@wolfsims.org).
 
 ## Credits
-The Nova Currency Mod was designed by [Emily Wolf](mailto:emily@wolfsims.org) for the [Nova 2](http://www.anodyne-productions.com/nova) system created by [Anodyne Productions](http://www.anodyne-productions.com). Edits are permissible by Bravo Fleet game managers so long as the original credits remain intact.
+The Nova Currency Mod was designed by [Emily Wolf](mailto:emily@wolfsims.org) for the [Nova 2](http://www.anodyne-productions.com/nova) system created by [Anodyne Productions](http://www.anodyne-productions.com). Edits are permissible so long as the original credits remain intact.
