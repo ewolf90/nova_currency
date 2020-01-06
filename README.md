@@ -1,4 +1,4 @@
-<div align="center"><h2>Nova Currency Mod</h2>
+<div align="center"><h1 style="border-bottom:0">Nova Currency Mod</h1>
   
 ![Version](https://img.shields.io/badge/Version-v1.0.0-brightgreen.svg "Version") [![Nova](https://img.shields.io/badge/Nova-v2.6.1-orange.svg "Laravel Version")](http://www.anodyne-productions.com/nova) [![PHP](https://img.shields.io/badge/PHP-v5.3.0-blue.svg "PHP Version")](https://www.php.net/)
   
