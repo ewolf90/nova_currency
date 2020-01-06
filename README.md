@@ -32,7 +32,7 @@ If you have a `personnel_index.php` file in `/application/views/_base_override/m
 ```
 
 ### Change Currency
-This mod displays currency in Gold Pressed Latinum (GPL). If you want to change the currency, edit line 65 of the `personnel_index.php` file or change the <li> statement before inserting it into your file.
+This mod displays currency in Gold Pressed Latinum (GPL). If you want to change the currency, edit line 65 of the `personnel_index.php` file or change the `<li>` statement before inserting it into your file.
  
 Example (in USD):
 ```php
