@@ -30,6 +30,22 @@ If you have a `personnel_index.php` file in `/application/views/_base_override/m
   <li><strong><?php echo $currency;?></strong> Bars of Latinum</li>
 <?php endif;?>
 ```
+
+### Change Currency
+This mod displays currency in Gold Pressed Latinum (GPL). If you want to change the currency, edit line 65 of the `personnel_index.php` file or change the <li> statement before inserting it into your file.
+ 
+Example (in USD):
+```php
+<li><strong><?php echo $currency;?></strong> United States Dollars</li>
+```
+### Change Calculation
+This mod displays currency at a rate of 2 Bars of Latinum per mission posts. If you want to change the calculation, edit line 64 of the `personnel_index.php` file or change the statement before inserting it into your file.
+ 
+Example (4 units of currency per mission post):
+```php
+<?php $currency = $postcount * 4; ?>
+```
+
 ## Support
 If you need any help installing or customizing this skin, please join the [Anodyne Productions Discord](https://discord.gg/qwfZt38) and use room #xtras. Otherwise, direct message me on Discord (@Emily#6153) or [send me an email](mailto:emily@wolfsims.org).
 
