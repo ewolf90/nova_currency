@@ -16,6 +16,8 @@ If you ***do not*** have a `personnel_index.php` file in `/application/views/_ba
 1. Downloading `personnel_index.php` file from this directory
 2. Upload the file to your Nova's `/application/views/_base_override/main/pages` directory 
 
+*This template file is the same format as the default view located in `/nova/modules/core/views/_base/main/pages`. If you have a different or custom `personnel_index.php` file, disregard the instructions above and follow the next step.*
+
 ### Installation with personnel_character.php page
 If you have a `personnel_index.php` file in `/application/views/_base_override/main/pages`, follow the steps below:
 
